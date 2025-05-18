@@ -1,2 +1,2 @@
 # bitechanger
-Toolchanger system for Voron Trident
+Toolchanger system mainly for Voron Trident
