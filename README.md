@@ -11,6 +11,6 @@ The picture is not showing the newest version
 ## this work would not be possible without the work of:  
 Voron Design with the Voron Trident    
 Annex Engineering with the Sherpa Mini  
-Klipper 
+Klipper  
 and many People providing reference CAD
 
