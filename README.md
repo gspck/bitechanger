@@ -1,10 +1,10 @@
 # bitechanger
 Toolchanger for Voron Trident  
 Work in Progress not ready for use  
-around 500 sucessful toolchanges  
-single tool works  
+around 750 sucessful toolchanges  
+dual tool works  
 repeateability is inconsistent  
-T0, T1 ,T2, ... not yet implemented,  
+T0, T1 has a basic  implementation  
 toolchanging works  
 
     
@@ -23,5 +23,4 @@ Klipper
 and many People providing reference CAD  
   
 ## Contact
-[Discord](https://discord.gg/gnCjt6DTd2)
-
+For further Questions contact me over [Discord](https://discord.gg/gnCjt6DTd2)  
