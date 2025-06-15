@@ -19,5 +19,8 @@ The picture is not showing the newest version
 Voron Design with the Voron Trident    
 Annex Engineering with the Sherpa Mini  
 Klipper  
-and many People providing reference CAD
+and many People providing reference CAD  
+  
+## Contact
+[Discord](https://discord.gg/gnCjt6DTd2)
 
