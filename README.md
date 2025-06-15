@@ -9,7 +9,11 @@ toolchanging works
 
     
 ![Benchy](https://github.com/gspck/bitechanger/blob/main/benchydrucker.jpg "first benchy") 
+[Testmodel](https://www.printables.com/model/3161-3d-benchy)  
 The picture is not showing the newest version
+  
+![Test](https://github.com/gspck/bitechanger/blob/main/first-multi-color-print.jpg "first Multicolor Print") 
+[Testmodel](https://www.printables.com/model/107023-become-makercoin/files)  
   
 ## this work would not be possible without the work of:  
 Voron Design with the Voron Trident    
