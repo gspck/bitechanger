@@ -17,9 +17,9 @@ The picture is not showing the newest version
 First multi-color-print  
   
 ## this work would not be possible without the work of:  
-Voron Design with the Voron Trident    
-Annex Engineering with the Sherpa Mini  
-Klipper  
+[Voron Design with the Voron Trident](https://vorondesign.com/voron_trident)    
+[Annex Engineering with the Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)  
+[Klipper](https://www.klipper3d.org/)  
 and many People providing reference CAD  
   
 ## Contact
