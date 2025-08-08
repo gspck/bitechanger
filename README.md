@@ -8,7 +8,8 @@ T0, T1 has a basic  implementation
 toolchanging works  
 
     
-![bitechanger](https://github.com/gspck/bitechanger/blob/main/bitechanger.jpeg "bitechanger") 
+![bitechanger](https://github.com/gspck/bitechanger/blob/main/bitechanger.jpeg "bitechanger")  
+<img src="https://github.com/gspck/bitechanger/blob/main/bitechanger.jpeg" width=50% height=50%>  
   
 ![Test](https://github.com/gspck/bitechanger/blob/main/first-multi-color-print.jpg "first Multicolor Print") 
 [Testmodel](https://www.printables.com/model/107023-become-makercoin/files)  
